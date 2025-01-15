@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @anurag-gulhane
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  I’m Full Stack Developer
+- I’m current tech stack MERN
+- I’m looking to collaborate on Chat-Application 
+- 📫 How to reach me ... Email - anurag1998.ag@gmail.com Phone Number - +91 8779802636
 
 <!---
 anurag-gulhane/anurag-gulhane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
